@@ -5,11 +5,13 @@ import Targets.Target;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
+
 
 public class Tareas {
 
     private List<Filtro> tareas = new ArrayList<>();
-    private Target target;
+    private Optional<Target> target;
 
     public Tareas(){}
 
@@ -17,12 +19,12 @@ public class Tareas {
         return this.tareas;
     }
 
-    public Target getTarget() {
+    public Optional <Target> getTarget() {
         return this.target;
     }
 
     public void setTarget(Target target) {
-        this.target = target;
+        this.target = Optional.ofNullable(target);
     }
 
     public void addTarea(Filtro filtro) {
@@ -36,6 +38,4 @@ public class Tareas {
             }
         }
     }
-
-
 }
