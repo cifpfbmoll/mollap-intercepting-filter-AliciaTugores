@@ -23,9 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3917218-e8e1-44cf-b342-410757f9a430" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Administrador/Tareas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Administrador/Tareas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Administrador/Tareas.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Administrador/Tareas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/main-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +106,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Kata-NumerosRomanos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pruebaSergio" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -110,9 +118,16 @@
       <recent name="C:\CLASE\mollap-intercepting-filter-AliciaTugores" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="mollap-intercepting-filter-AliciaTugores.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
       <module name="mollap-intercepting-filter-AliciaTugores.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,6 +147,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.App" />
+        <item itemvalue="Application.main" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +163,9 @@
       <workItem from="1619276385704" duration="23000" />
       <workItem from="1619628637890" duration="14882000" />
       <workItem from="1619705481539" duration="225000" />
-      <workItem from="1619705727698" duration="1232000" />
+      <workItem from="1619705727698" duration="2869000" />
+      <workItem from="1619709761741" duration="10000" />
+      <workItem from="1619709811028" duration="54000" />
     </task>
     <servers />
   </component>
@@ -175,30 +193,39 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="523" y="74" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1619705903061" />
-    <state x="2660" y="276" key="FileChooserDialogImpl" timestamp="1619276401668">
-      <screen x="1920" y="1" width="1920" height="1040" />
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1619709864848">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="2660" y="276" key="FileChooserDialogImpl/0.0.1536.824/1920.1.1920.1040@1920.1.1920.1040" timestamp="1619276401668" />
-    <state width="1210" height="173" key="GridCell.Tab.0.bottom" timestamp="1619647542973">
-      <screen x="1920" y="1" width="1920" height="1040" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1619709864848" />
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom" timestamp="1619709613254">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="13" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.1.1920.1040@0.0.1536.824" timestamp="1619641362751" />
     <state width="1210" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.1.1920.1040@1920.1.1920.1040" timestamp="1619647542973" />
-    <state width="1210" height="173" key="GridCell.Tab.0.center" timestamp="1619647542973">
-      <screen x="1920" y="1" width="1920" height="1040" />
+    <state width="1493" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619709613254" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center" timestamp="1619709613254">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="13" key="GridCell.Tab.0.center/0.0.1536.824/1920.1.1920.1040@0.0.1536.824" timestamp="1619641362751" />
     <state width="1210" height="173" key="GridCell.Tab.0.center/0.0.1536.824/1920.1.1920.1040@1920.1.1920.1040" timestamp="1619647542973" />
-    <state width="1210" height="173" key="GridCell.Tab.0.left" timestamp="1619647542973">
-      <screen x="1920" y="1" width="1920" height="1040" />
+    <state width="1493" height="139" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619709613254" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left" timestamp="1619709613253">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="13" key="GridCell.Tab.0.left/0.0.1536.824/1920.1.1920.1040@0.0.1536.824" timestamp="1619641362750" />
     <state width="1210" height="173" key="GridCell.Tab.0.left/0.0.1536.824/1920.1.1920.1040@1920.1.1920.1040" timestamp="1619647542973" />
-    <state width="1210" height="173" key="GridCell.Tab.0.right" timestamp="1619647542973">
-      <screen x="1920" y="1" width="1920" height="1040" />
+    <state width="1493" height="139" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619709613253" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right" timestamp="1619709613254">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="13" key="GridCell.Tab.0.right/0.0.1536.824/1920.1.1920.1040@0.0.1536.824" timestamp="1619641362751" />
     <state width="1210" height="173" key="GridCell.Tab.0.right/0.0.1536.824/1920.1.1920.1040@1920.1.1920.1040" timestamp="1619647542973" />
+    <state width="1493" height="139" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619709613254" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1619709026442">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1619709026442" />
     <state x="2472" y="254" key="Vcs.Push.Dialog.v2" timestamp="1619647327899">
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
@@ -207,5 +234,9 @@
       <screen x="1920" y="1" width="1920" height="1040" />
     </state>
     <state x="1953" y="42" width="1179" height="710" key="dock-window-1/0.0.1536.824/1920.1.1920.1040@0.0.1536.824" timestamp="1619639202507" />
+    <state x="209" y="96" key="new project wizard" timestamp="1619709838305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="96" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1619709838305" />
   </component>
 </project>
